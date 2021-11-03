@@ -20,7 +20,7 @@ View [live](https://nick-news-api.herokuapp.com/)
 ### License
 This project is under:  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)  
-Copyright &copy; 2021 **[Nicholas Ngetich](https://github.com/ngetichnick)**
+
 ### Questions?
 Twitter: **[@ngetichnichoh](https://twitter.com/ngetichnichoh)**  
-Email: **[nicholas.ngetich@student.moringaschool.com](mailto:nicholas.ngetich@student.moringaschool.com)**
+Email: **[meshack.kimutai@student.moringaschool.com](mailto:meshack.kimutai@student.moringaschool.com)**
